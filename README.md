@@ -15,8 +15,8 @@
 
 To install the application follow the instructions below:
 
-	git clone git@github.com:angrbrd/friend-finder.git
-	cd friend-finder
+	git clone https://github.com/JoseJWeb/friendfinder.git
+	cd friendfinder
 	npm install
 	
 ## Running Locally
