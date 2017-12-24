@@ -15,7 +15,7 @@
 
 To install the application follow the instructions below:
 
-	git clone https://github.com/JoseJWeb/friendfinder.git
+	git clone git@github.com:JoseJweb/friendfinder.git
 	cd friendfinder
 	npm install
 	
