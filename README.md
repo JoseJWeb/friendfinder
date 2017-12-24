@@ -7,9 +7,6 @@
 
 *The application is implemented using a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) server on the back end and the [Materialize](http://materializecss.com/) CSS framework on the front end.
 
-## Demo
-	
-*Friend Finder* is deployed to Heroku. Please check it out [here](https://.herokuapp.com/).
 
 ## Installation
 
